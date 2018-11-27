@@ -1,3 +1,4 @@
+// 1 change on master local
 // changes
 // 2 change
 // generate merge conflict
